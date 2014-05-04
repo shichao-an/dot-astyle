@@ -10,3 +10,4 @@
 --convert-tabs
 --max-code-length=79
 --pad-method-colon=none
+--suffix=none
